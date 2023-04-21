@@ -10,8 +10,13 @@ body{
     justify-content: space-evenly;
     align-items: center;
 
-    input{
+    .input{
         width: 140px;
+        border-radius: 10px;
+    }
+
+    .method{
+        font-size: 17px;
     }
 
     p{
